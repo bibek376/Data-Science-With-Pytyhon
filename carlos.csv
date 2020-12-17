@@ -1,0 +1,48 @@
+Date,Time,Latitude,Longitude,Magnitude(ML),Remarks,Epicenter
+B.S:2076-8-26,Local:19:11,27.95,85.59,4.8,NSC,Sindhupalchowk
+B.S:2076-8-11,Local:22:08,27.79,85.79,5.0,NSC,Sindhupalchowk
+B.S:2076-8-3,Local:19:15,29.42,81.10,5.7,NSC/RSC,Bajhang
+B.S:2076-7-26,Local:07:45,30.20,80.10,4.6,NSC/RSC,India
+B.S:2076-7-15,Local:03:51,28.45,83.23,4.5,NSC,Baglung
+B.S:2076-7-11,Local:19:27,29.66,82.04,4.1,NSC/RSC,Mugu
+B.S:2076-7-5,Local:11:06,26.88 ,86.59,4.1,NSC,Udayapur
+B.S:2076-7-4,Local:01:09,27.82,87.98,4.2,NSC,Taplejung
+B.S:2076-6-12,Local:07:27,28.66,83.06,4.4,NSC,Rukum/Baglung border
+B.S:2076-6-11,Local:10:43,30.0,81.45,4.3,RSC/NSC,Bajhang/Humla border
+B.S:2076-6-9,Local:18:49,28.28,84.65,4.7,NSC,Gorkha/Lamjung border
+B.S:2076-6-9,Local:01:18,27.71,86.32,4.0,NSC,Dolakha
+B.S:2076-6-5,Local:22:01,28.25,84.49,4.4,NSC,Lamjung
+B.S:2076-6-4,Local:06:19,28.15,84.61,4.0,NSC,Gorkha
+B.S:2076-5-31,Local:09:53,28.21,84.49,4.5,NSC,Lamjung
+B.S:2076-5-30,Local:20:18,29.80,80.48,4.4,NSC/RSC,Darchula(Nepal-India Border)
+B.S:2076-5-29,Local:10:54,30.30,81.74,5.0,RSC/NSC,Humla
+B.S:2076-5-5,Local:07:07,27.52,86.39,4.0,NSC,Solukhumbu
+B.S:2076-4-29,Local:23:09,27.69,86.26,4.3,NSC,Dolakha
+B.S:2076-4-24,Local:18:26,28.5,83.22,4.7,NSC,Myagdi
+B.S:2076-4-8,Local:17:58,27.80,86.15,4.2,NSC,Dolakha
+B.S:2076-3-21,Local:16:15,27.67,85.42,4.6,NSC,Bhaktapur
+B.S:2076-3-12,Local:22:21,27.95,84.8,4.0,NSC,Dhading
+B.S:2076-2-32,Local:21:32,28.95,81.98,4.5,NSC/RSC,Jajarkot
+B.S:2076-2-31,Local:12:22,29.52,81.05,4.0,RSC/NSC,Bajhang
+B.S:2076-2-16,Local:10:01,29.62,82.11,4.6,RSC/NSC,Mugu
+B.S:2076-2-11,Local:21:08,29.50,81.28,4.3,RSC/NSC,Bajhang
+B.S:2076-2-11,Local:11:02,27.70,86.47,4.9,NSC,Ramechhap
+B.S:2076-2-7,Local:23:47,28.21,84.37,4.1,NSC,Lamjung
+B.S:2076-2-3,Local:14:08,27.85,84.87,5.0,NSC,Dhading
+B.S:2076-1-29,Local:00:36,28.98,81.78,5.1,RSC/NSC,Dailekh
+B.S:2076-1-21,Local:08:37,27.94,85.72,4.0,NSC,Sindhupalchowk
+B.S:2076-1-16,Local:11:35,27.93,85.94,4.0,NSC,Sindhupalchowk
+B.S:2076-1-11,Local:06:40,27.70,85.14,4.3,NSC,Dhading
+B.S:2076-1-11,Local:06:29,27.69,85.17,5.2,NSC,Dhading
+B.S:2076-1-3,Local:12:35,28.00,84.76,4.5,NSC,Gorkha
+B.S:2076-1-2,Local:04:27,29.49,81.24,4.8,RSC/NSC,Bajhang
+B.S:2075-12-30,Local:10:25,28.03,85.38,4.6,NSC,Rasuwa
+B.S:2075-12-26,Local:13:05,27.76,86.27,4.2,NSC,Dolakha
+B.S:2075-12-18,Local:20:47,28.98,81.69,4.1,RSC/NSC,Dailekh
+B.S:2075-12-4,Local:09:01,27.63,85.16,4.1,NSC,Makawanpur
+B.S:2075-11-14,Local:16:15,27.66,86.00,4.4,NSC,Dolakha
+B.S:2075-11-14,Local:16:20,27.84,85.95,4.1,NSC,Sindhupalchok
+B.S:2075-11-4,Local:20:34,27.68,85.27,4.0,NSC,Kathmandu
+B.S:2075-11-2,Local:17:11,27.81,88.18,4.6,NSC,Taplejung
+B.S:2075-10-8,Local:22:30,27.09,86.96,4.5,NSC,Bhojpur
+B.S:2075-9-26,Local:11:34,27.60,86.31,4.5,NSC,Ramechhap
